@@ -5,7 +5,7 @@
 ### - Ejecute las siguientes lineas de comandos una por una:
 
 ~~~
-cd IA/
+cd docker-IA-2022/
 docker-compose up -d --build
 ~~~
 
